@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Creative Software
+- 🔭 I’m currently working on Multibrand Infotech Ltd
 - 🌱 I’m currently learning Data structure & algorithm
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
