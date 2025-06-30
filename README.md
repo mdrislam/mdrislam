@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full Stack Mobile Application Developer (Flutter & PHP Slim)</strong><br>
-  Dhaka, Bangladesh &nbsp•&nbsp <a href="mailto:mmdrislam@gmail.com">mmdrislam@gmail.com</a> &nbsp•&nbsp <a href="tel:+8801829887599">+8801829-887599</a><br>
+  Dhaka, Bangladesh &nbsp•&nbsp <a href="mailto:mmdrislam@gmail.com">mmdrislam@gmail.com</a> &nbsp•&nbsp <br>
   <a href="https://github.com/mdrislam">GitHub</a> • 
   <a href="https://linkedin.com/in/risad">LinkedIn</a> • 
   <a href="#">Portfolio</a>
@@ -16,41 +16,54 @@ I'm a passionate and result-driven Mobile App Developer with **5+ years** of exp
 
 ---
 
-## 🧰 Skills & Proficiency
+## 🧰 Tech Stack
 
-| Skill                   | Proficiency           |
-|-------------------------|----------------------|
-| Flutter (Dart)           | ██████████ 95%       |
-| Native Android (Java)    | █████████▉ 90%       |
-| PHP (Laravel & Slim)     | █████████▉ 90%       |
-| RESTful API Development  | █████████▉ 90%       |
-| Firebase (Auth, FCM, DB) | █████████ 85%        |
-| Google Maps SDK          | ████████▉ 80%        |
-| State Management (GetX, BLoC, Provider) | ████████▉ 80% |
-| MySQL                    | ████████ 75%         |
-| CI/CD Pipelines          | ███████ 70%          |
-| Native iOS (Swift/Kotlin basic) | ██████▉ 65%    |
+### 💻 Languages
+`Dart` • `Java` • `PHP` • `Swift (Basic)` • `Kotlin (Basic)` • `SQL` • `XML` • `JSON`
+
+### 📱 Mobile Development
+`Flutter (iOS & Android)` • `Native Android (Java)` • `Native iOS (Basic)`
+
+### 🔧 Backend & APIs
+`Laravel` • `Slim Framework` • `MySQL` • `RESTful API Design`
+
+### 🧠 State Management
+`GetX` • `Provider` • `BLoC` • `Riverpod`
+
+### 🔌 Integrations
+`Firebase (Auth, FCM, Firestore, Realtime DB, Storage)` •  
+`Google Maps SDK` • `WebRTC (Agora, Jitsi)` • `Socket.io` •  
+`Bluetooth, POS, QR Scanner` • `Payment Gateway` • `Biometric Auth` • `Localization`
+
+### 🛠 Tools & Platforms
+`Android Studio` • `VS Code` • `GitHub/GitLab` • `CI/CD Pipelines`
+
+### 🧱 Architecture Patterns
+`MVC` • `MVVM` • `Clean Architecture` • `SOLID Principles`
+
+### 📦 Local Storage
+`SQFlite` • `Hive` • `ObjectBox` • `SharedPreferences` • `Isar`
 
 ---
 
 ## 💼 Work Experience
 
-### 📌 Multibrand INFOTECH Ltd. — *Full Stack Mobile Developer*  
+### 📌 Multibrand INFOTECH Ltd. — *Full Stack Mobile Developer*
 📍 April 2023 – Present | Dhaka, Bangladesh  
-- Built cross-platform ERP apps in Flutter for workshop, pharma, and metal industries.  
-- Conducted R&D for screen design concepts and implemented full UI screens.  
-- Handled end-to-end development: planning, backend (Laravel/Slim), and deployment to Play Store & App Store.  
-- Integrated Google Maps SDK, Firebase services (Auth, FCM, Realtime DB), and biometric login.  
+- Built cross-platform ERP apps in Flutter for workshop, pharma, and metal industries.
+- Conducted R&D for screen design concepts and implemented full UI screens.
+- Handled end-to-end development: planning, backend (Laravel/Slim), and deployment to Play Store & App Store.
+- Integrated Google Maps SDK, Firebase services (Auth, FCM, Realtime DB), and biometric login.
 - Maintained and enhanced legacy Android (Java) apps with bug fixes and new features.
 
-### 📌 Creative Software Ltd. — *Team Lead (Flutter & Laravel)*  
+### 📌 Creative Software Ltd. — *Team Lead (Flutter & Laravel)*
 📍 Oct 2021 – Apr 2023  
-- Led sprint planning, client meetings, and full project execution.  
+- Led sprint planning, client meetings, and full project execution.
 - Managed Flutter and Laravel teams; handled server deployments and CI/CD.
 
-### 📌 EOMS BD Ltd. — *Junior Android Developer (Java)*  
+### 📌 EOMS BD Ltd. — *Junior Android Developer (Java)*
 📍 Sep 2019 – Apr 2020  
-- Developed Android apps using Java, SQLite, and integrated APIs.  
+- Developed Android apps using Java, SQLite, and integrated APIs.
 - Collaborated with API teams and supported senior developers in large projects.
 
 ---
